@@ -9,10 +9,9 @@ For more information about the git commands, look at the course website.
 - Create the index.html, index.js and index.css files and link them.
 - Add vue to the page and create the new instance.
 - Change the vue delimiters to something else, anything but the default {{}}.
-- Add an array of objects to the data (min 5 items with at least 3 properties).
-- Loop over your data and show all the properties in some html tags.
-- Use an if statement to hide peaces of your array.
-- Create a method that when clicked on an item will manipulate it in some way. (reverse the letters, toggle case, etc.)
+- Create a TODO list page.
+- Create Add, Delete and Mark as Done fetures.
+- Make sure you list is styled and responsve. (You can use a style library)
 
 # For committing your work:
 
@@ -20,7 +19,7 @@ For more information about the git commands, look at the course website.
 - Create a commit with a meaningful message.
 - Push your changes to GitHub
 
-# For Extra credit (1point):
+# For Extra credit (2point):
 
-- Instead of typing in the data manually fetch it from some public API via ajax.
+- Create the abillity to have multiple lists. 
 
